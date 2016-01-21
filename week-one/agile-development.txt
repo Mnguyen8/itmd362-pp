@@ -54,17 +54,18 @@ Text between backticks are commands to run in your command-line shell.
 First, you need to install Git, if you don’t have it already.
 
 1. Copy below the output from `git version`:
+git version 1.9.1
 
 
 2. Copy below the output from `git config --global --list`:
+user.name=Michael Nguyen
+user.email=mnguyen8@hawk.iit.edu
 
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
 
 3. Copy below the output from `ssh git@github.com`:
-
-
 Clone your fork of this repository. Then, on your computer, add a remote
 referencing my copy of the repository as the upstream rep by running
 `git remote add upstream https://github.com/karlstolley/itmd362-pp.git`
