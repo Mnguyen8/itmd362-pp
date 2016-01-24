@@ -24,6 +24,8 @@ First, remove all of the unnecessary cruft (files, app shortcuts, etc.) from you
 
 Be sure also that you’re choosing desktop backgrounds that make your workspace enjoyable, since you’re the one who will spend the most time looking at it, but that wouldn’t be overly distracting (or offensive) to others. Nature photos, abstract photography, and good old-fashioned neutral colors all do the job nicely. What works for you?
 
+I prefer a basic background.
+
 Once you’ve cleaned up your desktop, use Google or another search engine to learn the keyboard commands to take a screenshot of your desktop. Create the screenshot, then copy it to this directory (`week-two`) and add and commit it to the repository.
 
 2. Clean up your home directory.
@@ -38,6 +40,7 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on some operating systems, you might be able to customize the shortcuts to your own liking):
 
+For me the key commands are alt + tab.
 
 4. Set up a distraction-free browser.
 
