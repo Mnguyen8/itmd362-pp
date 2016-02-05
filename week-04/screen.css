@@ -1,6 +1,19 @@
 form{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+#info{
+
 	test-align: left;
 	font-family: 'Oswald', sans-serif;
+	padding: 1px;
+	font-size: 100%;
 }
 #submit{
 	font-family: 'Oswald', sans-serif;
