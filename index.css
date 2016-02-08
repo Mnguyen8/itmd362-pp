@@ -19,7 +19,7 @@
                 padding-bottom: 25px;
                 padding-right: 25px;
                 padding-left: 25px;
-            }
+        }
         body{
             position: relative;
             background-size: 100%;
@@ -27,7 +27,6 @@
 
         }
         .button {
-
             border: 1px solid black;
             border-radius: 25px;
             background-color: #b3b3b3;
@@ -37,4 +36,16 @@
             width: 100px;
            margin-right: auto;
            margin-left: auto;
+        }
+        .inputField {
+            display: inline-block;
+        }
+        .text{
+            text-align: center;
+        }
+        #registerButton{
+            margin-top: 25px;
+        }
+        .container {
+            width: 100%;
         }
