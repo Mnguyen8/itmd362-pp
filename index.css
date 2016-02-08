@@ -40,8 +40,8 @@
         .inputField {
             display: inline-block;
         }
-        .text{
-            text-align: center;
+        #about{
+            text-align: left;
         }
         #registerButton{
             margin-top: 25px;
