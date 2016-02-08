@@ -8,6 +8,7 @@
         #logo{
         text-align: center;
         color: white;
+        font-family: 'Satisfy', cursive;
         }
         div.main{
                 margin-left: auto;
@@ -48,4 +49,13 @@
         }
         .container {
             width: 100%;
+        }
+        p{
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+        h4{
+            font-family: 'Audiowide', cursive;
+        }
+        .header-logo {
+            font-family: 'Lobster', cursive;
         }
