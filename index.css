@@ -10,6 +10,9 @@
         color: white;
         font-family: 'Satisfy', cursive;
         }
+        .header-logo{
+            font-family: 'Lobster', cursive;
+        }
         div.main{
                 margin-left: auto;
                 margin-right: auto;
@@ -20,14 +23,35 @@
                 padding-bottom: 25px;
                 padding-right: 25px;
                 padding-left: 25px;
-        }
+            }
         body{
             position: relative;
             background-size: 100%;
             background-image: url("http://i1.tribune.com.pk/wp-content/uploads/2013/03/521014-BooksPHOTOSCREATIVECOMMONS-1363304344-210-640x480.jpg");
+        }
+        h4{
+            font-family: 'Audiowide', cursive;
+        }
+        p{
+
+            font-family: 'Roboto Condensed', sans-serif;
 
         }
+        #registerButton{
+            margin-top: 25px;
+        }
+        .container {
+            width: 100%;
+        }
+
+        .inputField {
+            display: inline-block;
+        }
+        #about{
+            text-align: left;
+        }
         .button {
+
             border: 1px solid black;
             border-radius: 25px;
             background-color: #b3b3b3;
@@ -37,27 +61,6 @@
             width: 100px;
            margin-right: auto;
            margin-left: auto;
-        }
-        .inputField {
-            display: inline-block;
-        }
-        #about{
-            text-align: left;
-        }
-        #registerButton{
-            margin-top: 25px;
-        }
-        .container {
-            width: 100%;
-        }
-        p{
-            font-family: 'Roboto Condensed', sans-serif;
-        }
-        h4{
-            font-family: 'Audiowide', cursive;
-        }
-        .header-logo {
-            font-family: 'Lobster', cursive;
         }
         .results{
             margin-top: 10px;
