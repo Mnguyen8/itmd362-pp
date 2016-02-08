@@ -26,3 +26,15 @@
             background-image: url("http://i1.tribune.com.pk/wp-content/uploads/2013/03/521014-BooksPHOTOSCREATIVECOMMONS-1363304344-210-640x480.jpg");
 
         }
+        .button {
+
+            border: 1px solid black;
+            border-radius: 25px;
+            background-color: #b3b3b3;
+            color: black;
+            text-align: center;
+            cursor: pointer;
+            width: 100px;
+           margin-right: auto;
+           margin-left: auto;
+        }
