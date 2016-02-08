@@ -59,3 +59,8 @@
         .header-logo {
             font-family: 'Lobster', cursive;
         }
+        .results{
+            margin-top: 10px;
+            border-radius: 25px;
+            border: 1px solid black;
+        }
