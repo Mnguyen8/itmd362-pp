@@ -9,4 +9,20 @@
         text-align: center;
         color: white;
         }
+        div.main{
+                margin-left: auto;
+                margin-right: auto;
+                text-align: center;
+                background-image: url("http://images.all-free-download.com/images/graphiclarge/old_paper_background_hd_picture_2_169574.jpg");
+                background-size: 100%;
+                width: 75%;
+                padding-bottom: 25px;
+                padding-right: 25px;
+                padding-left: 25px;
+            }
+        body{
+            position: relative;
+            background-size: 100%;
+            background-image: url("http://i1.tribune.com.pk/wp-content/uploads/2013/03/521014-BooksPHOTOSCREATIVECOMMONS-1363304344-210-640x480.jpg");
 
+        }
