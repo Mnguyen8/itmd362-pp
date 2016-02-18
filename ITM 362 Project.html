@@ -50,6 +50,12 @@ alert("Fill in the Full Name section");
 } else if(document.getElementById('email').value === ''){
 alert("Fill in the Email section");
 } else{
+    var check ="";
+        if (document.getElementById('seek').checked) {
+  check = document.createTextNode(document.getElementById('seek').value);
+} else {
+check = document.createTextNode(document.getElementById('trade').value);
+}
         var divWrapper = document.createElement('div');
         divWrapper.id = 'divResp';
         divWrapper.className = "results";
