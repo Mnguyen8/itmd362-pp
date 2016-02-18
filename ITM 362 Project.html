@@ -55,22 +55,25 @@ alert("Fill in the Email section");
   check = document.createTextNode(document.getElementById('seek').value);
 } else {
 check = document.createTextNode(document.getElementById('trade').value);
-}
+} 
         var divWrapper = document.createElement('div');
         divWrapper.id = 'divResp';
         divWrapper.className = "results";
         var ptext = document.createElement('p');
         var ptext2 = document.createElement('p');
         var ptext3 = document.createElement('p');
+        var ptext4 = document.createElement('p');
         var resultTitle = document.createTextNode("Title: "+document.getElementById('title').value);
         var resultFname = document.createTextNode("Full Name: "+document.getElementById('fullname').value);
         var resultEmail = document.createTextNode("Email: "+document.getElementById('email').value);
         ptext.appendChild(resultTitle);
         ptext2.appendChild(resultFname);
         ptext3.appendChild(resultEmail);
+        ptext4.appendChild(check);
         divWrapper.appendChild(ptext);
         divWrapper.appendChild(ptext2);
         divWrapper.appendChild(ptext3);
+        divWrapper.appendChild(ptext4);
         uploadArea.appendChild(divWrapper);
 };
 });
