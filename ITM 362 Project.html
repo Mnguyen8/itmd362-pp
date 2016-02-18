@@ -42,8 +42,14 @@
 </div>  
 <script type="text/javascript">
 var uploadArea = document.getElementById('upload');
-
     document.getElementById('registerButton').addEventListener("click", function(){
+        if(document.getElementById('title').value === ''){
+alert("Fill in the Title section");
+} else if(document.getElementById('fullname').value === ''){
+alert("Fill in the Full Name section");
+} else if(document.getElementById('email').value === ''){
+alert("Fill in the Email section");
+} else{
         var divWrapper = document.createElement('div');
         divWrapper.id = 'divResp';
         divWrapper.className = "results";
@@ -60,6 +66,7 @@ var uploadArea = document.getElementById('upload');
         divWrapper.appendChild(ptext2);
         divWrapper.appendChild(ptext3);
         uploadArea.appendChild(divWrapper);
+};
 });
 </script>
 </body>
