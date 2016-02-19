@@ -47,8 +47,8 @@
         .inputField {
             display: inline-block;
         }
-        #about{
-            text-align: left;
+        .main{
+            font-size: 120%;
         }
         .results{
             margin-top: 10px;
