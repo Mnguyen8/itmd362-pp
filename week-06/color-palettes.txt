@@ -15,20 +15,24 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename:Gaming.png & gaming2.png
+
+Explanation of your color choices:I chose these colors because to me when I think of high-end, custom-made camping laptops, I can imagine green neon lights and to compliment the neon color black to grey makes it stand out.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename:organic.png & organic2.png
+
+Explanation of your color choices:I chose to use shades of green and white because green shades give the user the mind set that the food is fresh and white can be associated with purity, as in the purity of the organic food that is being sold.
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename:baking.png, baking2.png & baking3.png
+
+Explanation of your color choices:I chose to go with a orange, white, and blue combination to really bring out the popping colors of orange with some blue hints and white so it doesnt strain the user's eyes. 
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename:kid.png, kid2.png, kid3.png, & kid4.png
+
+Explanation of your color choices:I chose red, blue, yellow, and white for this website because this website is supposed to be a colorful to attract the kids attention and some white to balance all those colors out.
