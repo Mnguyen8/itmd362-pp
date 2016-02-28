@@ -26,11 +26,11 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://www.google.com/design/spec/layout/structure.html#structure-app-bar
+* How you implemented it in your sketch: I added a nav bar with a menu option because the original website had too much information on it.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL):https://www.google.com/design/spec/style/icons.html#icons-system-icons
+* How you implemented it in your sketch: I added icons to the menu options so the users get an idea what each menue option is for.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://www.google.com/design/spec/components/buttons.html#buttons-raised-buttons
+* How you implemented it in your sketch: I added a raised button to the login option so the user knows to click it once they are done filling in their infomation.
