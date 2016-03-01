@@ -1,0 +1,62 @@
+form{
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+body {
+	background-image: url("http://57.media.tumblr.com/2a8abe663095f7886f0ce40945eaf0fa/tumblr_n60pbyp3Y01shpedgo1_400.gif");
+	background-size:cover;
+	position:absolute;
+}
+h1{
+	text-align: center;
+	color:white;
+	font-family: 'Anton', sans-serif;
+}
+h3{
+	text-align: center;
+	color:white;
+	font-family: 'Merriweather', serif;
+}
+p{
+	text-align: center;
+	color:white;
+	font-family: 'Arimo', sans-serif;
+}
+.blue{
+color:white;
+}
+#logo{
+	color:#00ff00;
+	font-family: 'Sigmar One', cursive;}
+#description{
+	padding-right:25%;
+	padding-left:25%;
+	text-align: center;
+}
+#form{
+	display:none;
+}
+#purchaseBtn, #buy{
+	font-size: 200%;
+}
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 75%; 
+    height: 500px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+img{
+	height: 100%;
+	width:100%;
+}
