@@ -6,29 +6,61 @@
     <meta name ="viewpoint" content="width = deivce-width, initial-scale=1.0, shrink-to-fit=no" />
 </head>
 <body>
-	<h1 id="logo">LED Light Strips</h1>
-	<h1>Do you like parties, but you aren't in the mood to leave your room?</h1>
-	<h3> Well now you can bring the party to your room! With LED Light Strips.</h3>
-	<div id = "description">
-    	<p class="blue">These light strips can turn your boring room into a rave in a matter of seconds! The LED light strips are remote controlled and change color! They are also eco friendly! All for the cheap cost of $29.99 (Shipping and handling not included)!</p>
-    	<input type="button" id="buy"value="Buy Now!" />
+<div class="container">
+		<div class="main">
+			<div class="logo">
+				<h1 id="logo">LED Light Strips</h1>
+			</div>
+		    <h1>Do you like parties, but you aren't in the mood to leave your room?</h1>
+		    <h3> Well now you can bring the party to your room! With LED Light Strips.</h3>
+		    <div id="slideshow">
+				<div>
+				    <img src="https://i.ytimg.com/vi/APZSV9yMt4Y/maxresdefault.jpg" />
+				</div>
+			   	<div>
+			    	<img src="https://i.ytimg.com/vi/aXL6l0JttTQ/hqdefault.jpg" />
+			   	</div>
+			  	<div>
+			    	<img src="http://www.avsforum.com/content/type/61/id/213209/flags/LL" />
+			   	</div>
+			   	<div>
+			     	<img src="http://ww1.prweb.com/prfiles/2015/09/25/12984626/strip%20light%20kit.jpg" />
+			   	</div>
+			   	<div>
+			     	<img src="http://www.trurons.com/store/light-strip-tv-back.jpg" />
+			   	</div>
+			   	<div>
+			     	<img src="http://detailedled.com/wp-content/uploads/2013/10/indoor-light-bedroom-light-led-lighting-room-lights-kitchen-light-christmas-lights-bathroom-light-stair-light-wonderful-led-light-strips-bq-led-light-strips-in-roomled-light-strips-in-carled-l.jpg" />
+			   	</div>
+			   	<div>
+			     	<img src="https://i.ytimg.com/vi/L3n-9HrInMY/hqdefault.jpg" />
+			   	</div>
+   			</div>
+		    <div id = "description">
+		    	<p class="blue">These light strips can turn your boring room into a rave in a matter of seconds! The LED light strips are remote controlled and change color! They are also eco friendly! All for the cheap cost of $29.99 (Shipping and handling not included)!</p>
+		    <input type="button" id="buy"value="Buy Now!" />
+		    </div>	
+		    <hr>
+		    <div id="form">
+		    <form>
+		    	<p>Register here to order some LED Light Strips now!</p>
+			    <label for ="fullname"><p class="text">Full Name: </p></label>
+			    <input type="text"class="inputField" id="fullname">
+			    <label for ="email"><p class="text">Email: </p></label>
+			    <input type="email"class="inputField" id="email">
+			    <label for ="pNum"><p class="text">Phone Number: </p></label>
+			    <input type="tel" pattern='[\+]\d{2}[\(]\d{2}[\)]\d{4}[\-]\d{4}' title='Phone Number (Format: +99(99)9999-9999)'class="inputField" id="pNum">
+			    <label for ="cCard"><p class="text">Credit Card Number: </p></label>
+			    <input type="number"class="inputField" id="cCard">
+			    <label for ="ccPin"><p class="text">Credit Card Pin: </p></label>
+			    <input type="number"class="inputField" id="ccPin">
+			    <label for ="ccDate"><p class="text">Credit Card Expiration Date: </p></label>
+			    <input type="month"class="inputField" id="ccDate">
+			    <p>When ready to purchase click the "Purchase" button</p>
+	            <input type="button" id="purchaseBtn" value="Purchase" />
+		    </form>
+		    </div>
+		   </div>
 	</div>
-	<form>
-    	<p>Register here to order some LED Light Strips now!</p>
-	    <label for ="fullname"><p class="text">Full Name: </p></label>
-	    <input type="text"class="inputField" id="fullname">
-	    <label for ="email"><p class="text">Email: </p></label>
-	    <input type="email"class="inputField" id="email">
-	    <label for ="pNum"><p class="text">Phone Number: </p></label>
-	    <input type="tel" pattern='[\+]\d{2}[\(]\d{2}[\)]\d{4}[\-]\d{4}' title='Phone Number (Format: +99(99)9999-9999)'class="inputField" id="pNum">
-	    <label for ="cCard"><p class="text">Credit Card Number: </p></label>
-	    <input type="number"class="inputField" id="cCard">
-	    <label for ="ccPin"><p class="text">Credit Card Pin: </p></label>
-	    <input type="number"class="inputField" id="ccPin">
-	    <label for ="ccDate"><p class="text">Credit Card Expiration Date: </p></label>
-	    <input type="month"class="inputField" id="ccDate">
-	    <p>When ready to purchase click the "Purchase" button</p>
-        <input type="button" id="purchaseBtn" value="Purchase" />
-    </form>
 </body>
 </html>
