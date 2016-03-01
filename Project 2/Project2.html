@@ -69,4 +69,40 @@
 		   </div>
 	</div>
 </body>
+<script> 
+$("#slideshow > div:gt(0)").hide();
+setInterval(function() { 
+  $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+},  3000);
+
+$(document).ready(function(){
+    $("#buy").click(function(){
+        $("#form").slideDown("slow");
+    });
+});
+
+var uploadArea = document.getElementById('upload');
+    document.getElementById('purchaseBtn').addEventListener("click", function(){
+ if(document.getElementById('fullname').value === ''){
+alert("Fill in the Full Name section");
+} else if(document.getElementById('email').value === ''){
+alert("Fill in the Email section");
+} else if(document.getElementById('pNum').value === ''){
+alert("Fill in the Phone Number section");
+} else if(document.getElementById('cCard').value === ''){
+alert("Fill in the Credit Card Number section");
+} else if(document.getElementById('ccPin').value === ''){
+alert("Fill in the Credit Card Pin section");
+} else if(document.getElementById('ccDate').value === ''){
+alert("Fill in the Credit Card Expiration Date section");
+} else{
+	alert("Transaction complete.");
+}
+});
+</script>
 </html>
