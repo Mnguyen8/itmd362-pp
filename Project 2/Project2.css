@@ -60,3 +60,9 @@ img{
 	height: 100%;
 	width:100%;
 }
+label {
+   font-size: 120%;
+}
+input{
+	font-size: 200%
+}
