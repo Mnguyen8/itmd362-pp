@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.http://drpete.co/blog/25-point-website-usability-checklist
+2.http://www.studyweb.com/test-your-website-a-57-point-checklist-for-maximum-usability/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Nice clean webpage, making sure website is not cluttered with information.
+2.Linking logo to home, making sure the logo  of your website can go back to the home page incase user gets lost in webpage.
+3.Website information, making sure your website has clear information that has no spelling errors and explains site quickly.
+4.Visuals, making sure the website looks professional and making sure colors dont strain the eye.
+5.Proper font, making sure the font goes will with the website and making sure it is easy to read. 
+6.Supporting many browsers, making sure your website can be viewed/ used properly by all browsers.
+7.Fast load-times, making sure that your website load fast on most browsers so users do not get irriatated.
+8.Easy navigation, making it easy for the user to loacte the "about us, contact us, and homelinks".
+9.Website security, making sure that all sensitive information of the user is protected so others cannot gain access to it.
+10.Mobile friendly, making sure the website is easy to use on a mobile device so user can enjoy experience the same as on a computer.
