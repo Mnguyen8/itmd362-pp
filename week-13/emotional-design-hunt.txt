@@ -12,14 +12,14 @@ A. Photograph of the object (place in the week-12/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: Everyone knows what a tooth brush is and what it is used for. Everyone knows what it looks like and how to use it.
 
-* Behavioral:
+* Behavioral: The structure of the toothbrush is simple with easy use. The handle fits almsot all hands, and the brush- head fits into most people's mouths.
 
-* Reflective:
+* Reflective:The toothbrush to me is a sign of cleaniness. I always feel a bit cleaner in the morning and at night after using it to bush my teeth.
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1.Simplicity 
+2.Helpfulness
+3.Smooth Navigation
