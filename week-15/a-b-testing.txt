@@ -1,0 +1,17 @@
+# Production Problem 9: A/B Testing on the Cheap
+
+## The Problem
+
+Locate an interface component on some website that you use frequently that you think could be improved. The improvement should be minor, as we discussed in class.
+
+Take a screenshot of the interface on both a mobile and desktop device. Then, sketch or illustrate your alternate/"b" test. Finally, describe modification and the HTML, CSS, and JavaScript that you would need to write in order to conduct the test.
+
+## Deliverables
+
+* Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
+
+* Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
+
+* A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+The change I would make would be to change the mobile view of the https://www.blackboard.iit.edu login page.  This page is not mobile friendly for Andriod users.  The changes I made for the mobile view is that the login is larger for the screen, the addition of the IIT logo, the centering of the "Blackboard Learn" logo, and a dropdown menu to view the information that was on the page (such as the link IIT site, the IIT Online Lecture Capture Content Access information and links, the text size settings, and the contrast settings). The changes would happen in the HTML, CSS and JavaScript. The HTML changes would be the addition of the IIT logo. The CSS changes would be in the device size and how to style the nav bar for the information. The changes to the JavaScript would be the addition of the dropdown menu for the information.  All these changes would happen during the view of site in mobile form.
